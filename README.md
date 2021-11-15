@@ -1,2 +1,2 @@
 # nadyas-resolution
-creating my resolutin
+creating my resolution
